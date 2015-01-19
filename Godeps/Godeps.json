@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/untoldone/bloomapi",
+	"ImportPath": "github.com/RemoteHealthServices/bloomapi",
 	"GoVersion": "go1.3.1",
 	"Deps": [
 		{
